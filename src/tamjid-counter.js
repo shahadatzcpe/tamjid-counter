@@ -35,6 +35,10 @@
 
         if (focus_form_top && focus_form_bottom && !already_countered) {
 
+            
+
+             $element.addClass('tamjid-performed');
+            
             setTimeout(function() {
 
                 $element.prop('Counter', 0).animate({
@@ -46,8 +50,6 @@
                         $element.text(Math.ceil(now));
                     }
                 });
-
-                $element.addClass('tamjid-performed');
 
             }, options.delay);
 
