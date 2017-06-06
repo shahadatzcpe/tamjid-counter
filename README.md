@@ -1,4 +1,5 @@
-## Tamjid Counter
+Tamjid Counter
+==========
 
 A [jQuery](https://jquery.com/) plugin that animates a number from zero (counting up towards it). It supports counting up and bottom.
 
