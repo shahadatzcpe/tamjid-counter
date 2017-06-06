@@ -16,9 +16,9 @@ Usage
 **HTML**
 
 ```
-<span class="counter">1,234,567.00</span>
-<span>$</span><span class="counter">1.99</span>
-<span class="counter">12345</span>
+<span class="counter">450</span>
+<span>$</span><span class="counter">300</span>
+<span class="counter">4000</span><span>+</span>
 ```
 
 **jQuery**
