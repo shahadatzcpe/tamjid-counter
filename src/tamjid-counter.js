@@ -1,3 +1,9 @@
+/**
+ * Tamjid Counter v1.1.0
+ * Copyright 2017 shadatzepe
+ * Licensed under  ()
+ */
+
 (function($) {
 
     "use strict";
