@@ -24,18 +24,22 @@ Usage
 **jQuery**
 
 ```
-$('.counter').tamjidCounter();
+$(document).ready(function(){
+  $('.counter').tamjidCounter();
+});
 ```
 
 **or with extra parameters**
 
 ```
+$(document).ready(function(){
  $('.counter').tamjidCounter({
       duration: 3000,
       delay: 0
     });
+});
 ```
 
-`duration` - The total duration of the count up animation
+`duration` - The total duration of the count up animation.
 
-`delay` - The delay in milliseconds per number count up
+`delay` - The delay in milliseconds per number count up.
