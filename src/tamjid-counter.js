@@ -1,6 +1,6 @@
 /**
  * Tamjid Counter v1.1.0
- * Copyright 2017 shadatzepe
+ * Copyright 2017 shadatzcpe
  * Licensed under  ()
  */
 
